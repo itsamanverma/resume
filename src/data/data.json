@@ -6,7 +6,7 @@
       "startDate": "27 Jun, 2019",
       "replacer": "{{experience}}"
     },
-    "bio": "Web developer with over {{experience}} of experience in hapi.js, React, Angular, NodeJS, Aws etc with a flair for creating elegant solutions in the least amount of time. Recognized consistently for performance excellence and contributions to success in web development industry.",
+    "bio": "Senior Backend Engineer with {{experience}} years of experience specializing in Hapi.js, Node.js, React, Angular, AWS, and cloud-based solutions. Adept at designing and developing robust RESTful APIs, architecting scalable databases in both NoSQL and MySQL, and delivering elegant, efficient solutions within tight deadlines. Recognized for consistent excellence in performance, innovation, and impactful contributions to web development projects. Proficient in TypeScript and passionate about driving success in fast-paced, collaborative environments.",
     "contact": [
       {
         "type": "email",
